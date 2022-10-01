@@ -1,0 +1,1 @@
+exec Earthquakes.FindAllData @Area = 1

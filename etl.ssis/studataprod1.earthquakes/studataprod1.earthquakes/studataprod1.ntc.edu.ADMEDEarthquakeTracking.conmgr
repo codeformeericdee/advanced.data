@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="studataprod1.ntc.edu.ADMEDEarthquakeTracking"
+  DTS:DTSID="{08594577-BDFA-4CB2-9DB4-BB2A9776A09F}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectRetryCount="1"
+      DTS:ConnectRetryInterval="5"
+      DTS:ConnectionString="Data Source=studataprod1.ntc.edu;Initial Catalog=ADMEDEarthquakeTracking;Provider=SQLNCLI11.1;Integrated Security=SSPI;Application Name=SSIS-studataprod1.earthquakes-{08594577-BDFA-4CB2-9DB4-BB2A9776A09F}studataprod1.ntc.edu.ADMEDEarthquakeTracking;Auto Translate=False;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
